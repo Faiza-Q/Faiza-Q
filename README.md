@@ -1,178 +1,115 @@
-<h1 align="center">Faiza Atif 👋</h1>
+<h1 align="center">Hi, I'm Faiza Atif 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=1000&lines=Senior+AI+%26+Machine+Learning+Engineer;LLM+%7C+RAG+%7C+Computer+Vision+%7C+NLP;AI+Agents+%7C+Voice+AI+%7C+Automation+Systems;I+build+AI+systems+that+actually+work+in+production" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=950&lines=Senior+AI+%26+Machine+Learning+Engineer;LLM+%7C+Computer+Vision+%7C+NLP+%7C+RAG+%7C+Gen+AI;AI+Agents+%7C+Chatbots+%7C+Voice+AI+%7C+Automation;Building+AI+systems+that+work+in+production+at+scale" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Experience-11%2B%20Years-8A2BE2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Rate-%2425%2Fhr-FF4D6D?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Focus-Production%20AI-00C2A8?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Impact-20%2B%20Hours%2FWeek%20Saved-FFB703?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Experience-11%2B%20Years-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Rate-%2425%2Fhr-FF4D6D?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Production%20AI-00C2A8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ROI-Measurable%20Outcomes-FFB703?style=for-the-badge" />
 </p>
 
 ---
 
-## ⚡ The Reality About AI
+## 🚀 About Me
 
-Most AI projects never make it past the demo stage.  
+Most AI projects never make it past the demo stage. Mine run in production, handling thousands of real conversations, driving revenue decisions, and saving teams **20+ hours every week**.
 
-Mine run in production — handling thousands of conversations, automating real workflows, and driving measurable business outcomes.
+I'm **Faiza Atif**, a **Senior AI & Machine Learning Engineer** focused on turning ambitious AI ideas into deployed systems that deliver measurable ROI.
 
----
-
-## 👩‍💻 About Me
-
-I’m **Faiza Atif**, a Senior AI & Machine Learning Engineer.
-
-I help companies turn:
-- ❌ AI ideas that look good in demos  
-- ✔️ into systems that run daily, scale, and generate ROI  
-
-From **AI agents and chatbots** to **RAG pipelines and automation systems**, I focus on one thing:
-
-👉 **building AI that works in the real world**
+Whether it's a customer support chatbot that actually resolves tickets, a **RAG-powered assistant** trained on proprietary data, or an **automation pipeline** that eliminates manual work, I build systems to perform in the real world.
 
 ---
 
-## 🚀 Systems I Build
+## ⚙️ What I Build
 
-### 🤖 AI Agents & Chatbots
-- Customer support systems with real ticket resolution  
-- RAG-based assistants trained on internal data  
-- Multi-agent systems (CRM + DB + workflows)  
-- Autonomous decision pipelines  
+### 🤖 AI Chatbots & Agents
+- Customer support bots with automatic ticket resolution  
+- RAG-powered document Q&A assistants  
+- Voice AI agents for calls, lead capture, and booking  
+- Multi-agent systems for CRM + DB operations  
 
----
+### 📊 Machine Learning & Data Science
+- NLP: classification, summarization, embeddings  
+- Computer Vision: OCR, detection, recognition  
+- Forecasting & recommendation systems  
+- Hybrid ML + LLM pipelines  
 
-### 📞 Voice AI Systems
-- AI call agents (lead capture, booking, support)  
-- IVR automation & call routing  
-- Real-time voice processing systems  
+### ✨ LLM & Gen AI
+- OpenAI, Claude, Gemini, Llama  
+- LangChain, LangGraph  
+- Pinecone, FAISS, Qdrant  
+- Fine-tuning & optimization  
 
----
-
-### 🧠 Machine Learning Systems
-- NLP pipelines (classification, embeddings, summarization)  
-- Computer Vision (OCR, detection, recognition)  
-- Forecasting & recommendation engines  
-- Hybrid ML + LLM architectures  
-
----
-
-### 🔄 Automation Systems
-- End-to-end workflow automation  
-- CRM pipelines (lead routing, follow-ups)  
-- API integrations & orchestration  
-- Business process automation  
+### 🔄 Automation & Integrations
+- n8n, Zapier, Make, GoHighLevel  
+- CRM workflows & lead automation  
+- Shopify, HubSpot, Salesforce integrations  
+- APIs, webhooks, data sync  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### ⚙️ Core
+### Backend
 Python • FastAPI • Django • DRF  
 
-### 🧠 AI Stack
-OpenAI • Claude • Gemini • Llama  
-LangChain • LangGraph  
-Pinecone • FAISS • Qdrant  
+### AI Stack
+LLMs • RAG • Vector DBs • Agents  
 
-### 📞 Voice
+### Voice
 Vapi • Twilio • LiveKit  
 
-### 🚀 Infra
+### Infra
 Docker • AWS • GCP  
 
-### ⚡ Rapid Build
+### Rapid Dev
 Replit • Cursor • Lovable • Bolt  
-
-### 🔗 Automation
-n8n • Zapier • Make • GoHighLevel  
-
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
-</p>
 
 ---
 
 ## 🏆 Certifications
-
-- Google Cloud Professional ML Engineer  
-- MIT Machine Learning & AI  
-- AWS Machine Learning Certified  
+- Google Cloud ML Engineer  
+- MIT AI & ML Certificate  
+- AWS ML Certified  
 - IBM AI Engineering  
 
 ---
 
-## 💼 Systems Delivered
+## 💼 Portfolio Highlights
 
-### 🧠 AI Marketing Automation
+### 🧠 Inbound Systems
+AI marketing automation + CRM workflows  
 → Lead scoring + funnel automation  
-→ CRM workflows replacing manual ops  
 
----
+### 🏥 Integrex Health
+Healthcare NLP + voice AI  
+→ Claim success improved **50% → 80%**
 
-### 🏥 Healthcare AI Platform
-→ NLP for claims + payer matching  
-→ Improved success rate **50% → 80%**  
-→ Voice AI eliminating IVR delays  
-
----
-
-### 🧬 Clinical Trial Matching AI
-→ Patient-to-trial matching engine  
+### 🧬 MassiveBio
+Cancer trial matching engine  
 → 10K+ users  
-→ Real-time eligibility scoring  
 
----
-
-### 🌍 Workforce Automation Platform
+### 🌍 Reach Talent
+Workforce automation platform  
 → 3-click rehiring system  
-→ Full onboarding automation  
-→ Multi-system integration  
 
 ---
 
-## 🎯 What You Actually Get
+## ✅ What You Get
 
 - Production-grade AI systems  
-- Clean, scalable architecture  
-- Tested pipelines (not prototypes)  
+- Clean architecture  
+- Real documentation  
 - Clear communication  
-- Measurable business impact  
+- Measurable business outcomes  
 
 ---
 
-## 💡 How I Work
+## 📌 Final Note
 
-I don’t start with models.  
-I start with outcomes.
+I don’t build demos.
 
-Then I design systems that make those outcomes inevitable.
-
----
-
-## 📌 Final Thought
-
-Most developers build features.  
-
-I build systems that:
-- run daily  
-- scale under pressure  
-- and don’t break when real users show up  
-
----
-
-<p align="center">
-  🚀 If you're building something serious with AI, you're in the right place.
-</p>
+I build AI systems that **ship, scale, and keep working in production.**
